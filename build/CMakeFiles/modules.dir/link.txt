@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmodules.a  CMakeFiles/modules.dir/modules/camera.cpp.o CMakeFiles/modules.dir/modules/handsDetector.cpp.o
+/usr/bin/ranlib libmodules.a
