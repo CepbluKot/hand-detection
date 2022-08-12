@@ -1,6 +1,4 @@
 make all --print-data-base --no-builtin-variables --no-builtin-rules --question
-make: *** No rule to make target 'all'.  Stop.
-
 # GNU Make 4.2.1
 # Built for x86_64-pc-linux-gnu
 # Copyright (C) 1988-2016 Free Software Foundation, Inc.
@@ -8,7 +6,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Fri Aug 12 13:58:41 2022
+# Make data base, printed on Fri Aug 12 23:24:27 2022
 
 # Variables
 
@@ -39,7 +37,7 @@ GDMSESSION = xfce
 # default
 MAKE_VERSION := 4.2.1
 # makefile
-CURDIR := /home/chopx/Documents/hands
+CURDIR := /home/chopx/Documents/hands_final
 # makefile
 SHELL = /bin/sh
 # environment
@@ -73,7 +71,7 @@ LESSOPEN = | /usr/bin/lesspipe %s
 # environment
 LC_NAME = ru_RU.UTF-8
 # environment
-VSCODE_CWD = /home/chopx/Documents/hands
+VSCODE_CWD = /home/chopx/Documents/hands_final
 # environment
 XDG_SESSION_PATH = /org/freedesktop/DisplayManager/Session0
 # environment
@@ -119,7 +117,7 @@ DISPLAY = :0.0
 # environment
 SNAP_INSTANCE_KEY = 
 # environment
-PWD = /home/chopx/Documents/hands
+PWD = /home/chopx/Documents/hands_final
 # environment
 QT_QPA_PLATFORMTHEME = qt5ct
 # default
@@ -199,7 +197,7 @@ LC_TELEPHONE = ru_RU.UTF-8
 # default
 MAKE_COMMAND := make
 # environment
-OLDPWD = /home/chopx/Documents
+OLDPWD = /home/chopx
 # default
 .VARIABLES := 
 # automatic
@@ -263,7 +261,7 @@ LANG = C
 # environment
 TERM = xterm-256color
 # environment
-VSCODE_PID = 18921
+VSCODE_PID = 70875
 # variable set hash-table stats:
 # Load=126/1024=12%, Rehash=0, Collisions=13/148=9%
 
@@ -273,9 +271,9 @@ VSCODE_PID = 18921
 
 # Directories
 
-# . (device 2067, inode 789934): 15 files, no impossibilities.
+# . (device 2067, inode 818114): 10 files, no impossibilities.
 
-# 15 files, no impossibilities in 1 directories.
+# 10 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -284,7 +282,6 @@ VSCODE_PID = 18921
 # Files
 
 # Not a target:
- 
 all:
 #  Command line target.
 #  Implicit rule search has been done.
@@ -326,12 +323,14 @@ GNUmakefile:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 23 / storage = 196 B / avg = 8 B
-# current buf: size = 8162 B / used = 196 B / count = 23 / avg = 8 B
+# strcache buffers: 1 (0) / strings = 18 / storage = 152 B / avg = 8 B
+# current buf: size = 8162 B / used = 152 B / count = 18 / avg = 8 B
 
-# strcache performance: lookups = 26 / hit rate = 11%
+# strcache performance: lookups = 21 / hit rate = 14%
 # hash-table stats:
-# Load=23/8192=0%, Rehash=0, Collisions=1/26=4%
-# Finished Make data base on Fri Aug 12 13:58:41 2022
+# Load=18/8192=0%, Rehash=0, Collisions=1/21=5%
+# Finished Make data base on Fri Aug 12 23:24:27 2022
 
  
+make: *** No rule to make target 'all'.  Stop.
+

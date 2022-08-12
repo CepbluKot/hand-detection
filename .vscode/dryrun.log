@@ -1,6 +1,6 @@
 make --dry-run --always-make --keep-going --print-directory
-make: Entering directory '/home/chopx/Documents/hands'
-make: Leaving directory '/home/chopx/Documents/hands'
+make: Entering directory '/home/chopx/Documents/hands_final'
+make: Leaving directory '/home/chopx/Documents/hands_final'
  
 make: *** No targets specified and no makefile found.  Stop.
 
